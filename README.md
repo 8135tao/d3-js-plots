@@ -1,2 +1,2 @@
 # d3-js-plots
-plots using the javascript library d3
+Scatter plots that showcase the relationship between different factors (age, education level) that contributes to live condiions (poverty, health) over 50 states of the US.
